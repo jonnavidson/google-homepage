@@ -1,0 +1,143 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           generalStyles
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+body{
+	font-family:Arial;
+	font-size:13px;
+	margin:0;
+}
+
+a{
+	color:inherit;
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+ul{
+	margin:0;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           navigationBar
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.navigationBar{
+	display:block;
+	float:right;
+	margin-right:30px;
+}
+
+
+.navigationBar li{
+	display:inline-block;
+	padding-left:15px;
+}
+
+
+.navigationBar li img{
+	height:24px;
+	position:relative;
+	top:8px;
+}
+
+.navigationBar .avatar img{
+	border-radius:50%;
+	height:40px;
+	top:14px;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            containerMain
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.containerMain{
+	display:block;
+	width:100%;
+	text-align:center;
+}
+
+.logo{
+	width:100%;
+	padding-top:200px;
+	padding-bottom:20px;
+}
+
+.searchBar{
+	width:600px;
+	height:30px;
+	margin:auto;
+	position:relative;
+}
+
+.searchBar input{
+	width:580px;
+	height:100%;
+	border:1px solid #DDDDDD;
+	padding: 0 10px;
+	position:relative;
+}
+
+.searchBar input:hover{
+	border:1px solid #b0b0b0;
+}
+
+.containerSearchButtons{
+	display:block;
+	margin-top:20px;
+}
+
+.containerSearchButtons .button{
+	margin-right:6px;
+	margin-left:6px;
+	padding: 0px 16px;
+	display: inline-block;
+	border:1px solid #f2f2f2;
+	font-size:13px;
+	background-color: #f2f2f2;
+	font-weight:600;
+	color: #757575;
+	height:32px;
+}
+
+.button:hover{
+	border:1px solid #c6c6c6;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+               footer
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.footer{
+	position:absolute;
+	width:100%;
+	height:40px;
+	background-color:#f2f2f2;
+	bottom: 1px;
+	border-top:1px solid #e4e4e4;
+
+}
+
+.footerLeft{
+	display:block;
+	float:left;
+	width:48%;
+}
+
+.footerRight{
+	display: block;
+	text-align:right;
+}
+
+.footerLeft ul li, .footerRight ul li{
+	display:inline-block;
+	padding-top:15px;
+	padding-bottom:10px;
+	color:#666;
+	padding-right:30px;
+}
