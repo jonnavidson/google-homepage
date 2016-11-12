@@ -1,13 +1,15 @@
 <h1>Web Development 101 Google Homepage</h1>
 <p>
-	hello, this was my first project on the Odin Project, idea is to get into Web Development and end my NEET lifestyle. 
+	Hello, I am learning Web Development. I have choosen The Odin Project to start me off on this path.
+	I have completed Project 1, remaking Google's homepage using HTML/CSS.
+
 </p>
+<p>
+	You may view it here.
+</p>
+
 <p>
 <a href="http://htmlpreview.github.io/?https://github.com/jonnavidson/google-homepage/blob/master/googleHomepage.html">HTML Preview</a>
 <p>
-	i went with camelCase syntax, as i am used to using it.
-	however, seems that is the wrong way to go about it when writeing html/css.
-</p>
-<p>
-	i will thank you for your time.
+	Thank you for your time.
 </p>
