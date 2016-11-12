@@ -2,7 +2,7 @@
 <p>
 	Hello, I am learning Web Development. 
 	<br>I have choosen The Odin Project to start me off on this path.
-	<br>I have completed Project 1, remaking Google's homepage using HTML/CSS.
+	<br>This is Project 1, remaking Google's homepage using HTML/CSS.
 
 </p>
 <p>
